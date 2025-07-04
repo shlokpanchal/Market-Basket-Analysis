@@ -1,6 +1,7 @@
-%%writefile README.md
 
-# Association Rule Mining with Apriori
+# Market Basket Analysis ( Association Rule Mining with Apriori algorithm)
+
+# Google Colab link: https://colab.research.google.com/drive/12B0OP_YeNp-WT1v-frEfwvctr9AwG4RX?usp=sharing
 
 This notebook demonstrates the process of generating and analyzing association rules from a synthetic dataset using the Apriori algorithm. Association rule mining is a technique used to find relationships between items in a dataset, often used in market basket analysis to understand customer purchasing patterns.
 
